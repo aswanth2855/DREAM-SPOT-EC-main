@@ -92,7 +92,7 @@ Dream-Spot-Ec/
 
 ## Developer
 
-Developed by **LOKIiii**
+Developed by **Aswanthhh**
 
 ---
 
