@@ -1,0 +1,225 @@
+
+export const snacks = [
+  {
+    id: 1,
+    name: "Murukku",
+    price: 200,
+    image: "snacks/Murukku.jpeg",
+    description:
+      "Crispy, spiral-shaped South Indian snack made from rice flour and urad dal, seasoned with spices.",
+    rating: 4.5,
+    category: "snacks",
+  },
+  {
+    id: 2,
+    name: "Thattai",
+    price: 270,
+    image: "snacks/Thattai.jpeg",
+    description:
+      "Crunchy South Indian snack made from rice flour and lentils - crispy and traditional.",
+    rating: 4.3,
+    category: "snacks",
+  },
+  {
+    id: 3,
+    name: "Seedai",
+    price: 230,
+    image: "snacks/Seedai.jpeg",
+    description:
+      "Traditional Tamil Nadu snack made with rice flour and spices, in this includes sweet seedai, salt seedai, uppu seedai.",
+    rating: 4.4,
+    category: "snacks",
+  },
+  {
+    id: 4,
+    name: "Mixture",
+    price: 345,
+    image: "snacks/Mixture.jpeg",
+    description: "Spicy mix of various fried snacks and nuts.",
+    rating: 4.6,
+    category: "snacks",
+  },
+  {
+    id: 5,
+    name: "Onion Pakkoda",
+    price: 260,
+    image: "snacks/Onion-Pakkoda.jpeg",
+    description: "Deep-fried fritters made with gram flour and onion.",
+    rating: 4.2,
+    category: "snacks",
+  },
+  {
+    id: 6,
+    name: "Oomapodi",
+    price: 500,
+    image: "snacks/Oomapodi.jpeg",
+    description: "Fine vermicelli-like snack made from gram flour.",
+    rating: 4.5,
+    category: "snacks",
+  },
+  {
+    id: 7,
+    name: "Karasev",
+    price: 310,
+    image: "snacks/Karasev.jpeg",
+    description: "Spicy and crunchy snack made from gram flour.",
+    rating: 4.3,
+    category: "snacks",
+  },
+  {
+    id: 8,
+    name: "Bananachips",
+    price: 450,
+    image: "snacks/Banana-Chips.jpeg",
+    description: "Crispy banana chips fried to perfection.",
+    rating: 4.4,
+    category: "snacks",
+  },
+  {
+    id: 9,
+    name: "Kara Boondi",
+    price: 370,
+    image: "snacks/Kara-Boondi.jpeg",
+    description: "Kara Boondi is a spicy, crispy snack made from fried gram flour droplets, often mixed with peanuts and curry leaves for extra flavor.",
+    rating: 4.2,
+    category: "snacks",
+  },
+  {
+    id: 10,
+    name: "Ribbon Pakkoda",
+    price: 230,
+    image: "snacks/Ribbon-Pakkoda.jpeg",
+    description: "Ribbon Pakkoda is a crunchy, ribbon-shaped snack made from rice flour and besan, seasoned with spices and deep-fried for a flavorful crunch.",
+    rating: 4.5,
+    category: "snacks",
+  },
+  {
+    id: 11,
+    name: "Namak Para",
+    price: 170,
+    image: "snacks/Namak-Para.jpeg",
+    description: "Namak Para is a crispy, diamond-shaped savory snack made from spiced wheat or maida dough, deep-fried to golden perfection.",
+    rating: 4.3,
+    category: "snacks",
+  },
+  {
+    id: 12,
+    name: "Pori Urundai",
+    price: 140,
+    image: "snacks/Pori-Urundai.jpeg",
+    description: "Pori Urundai is a crunchy, sweet puffed rice ball bound with jaggery, traditionally enjoyed during Karthigai Deepam in Tamil Nadu.",
+    rating: 4.4,
+    category: "snacks",
+  },
+];
+
+export const sweets = [
+  {
+    id: 13,
+    name: "Adhirasam",
+    price: 150,
+    image: "sweets/Adhirasam.jpeg",
+    description:
+      "Sweet, deep-fried Tamil treat made from rice flour and jaggery - soft, rich, and festive.",
+    rating: 4.7,
+    category: "sweets",
+  },
+  {
+    id: 14,
+    name: "Jangiri",
+    price: 340,
+    image: "sweets/Jangiri.jpeg",
+    description:
+      "Bright orange, juicy sweet made from urad dal batter, soaked in sugar syrup - soft and festive.",
+    rating: 4.8,
+    category: "sweets",
+  },
+  {
+    id: 15,
+    name: "Mysorepak",
+    price: 300,
+    image: "sweets/MysorePak.webp",
+    description:
+      "Rich and sweet confection made from gram flour, ghee, and sugar.",
+    rating: 4.6,
+    category: "sweets",
+  },
+  {
+    id: 16,
+    name: "Palkova",
+    price: 350,
+    image: "sweets/Palkova.jpeg",
+    description: "Creamy milk-based sweet with a rich, dense texture.",
+    rating: 4.5,
+    category: "sweets",
+  },
+  {
+    id: 17,
+    name: "Kesari",
+    price: 75,
+    image: "sweets/Kesari.jpeg",
+    description: "Semolina-based sweet dish flavored with saffron.",
+    rating: 4.4,
+    category: "sweets",
+  },
+  {
+    id: 18,
+    name: "Laddu",
+    price: 200,
+    image: "sweets/Laddu.jpeg",
+    description:
+      "Round sweet balls made from various ingredients like gram flour or semolina.",
+    rating: 4.6,
+    category: "sweets",
+  },
+  {
+    id: 19,
+    name: "Badusha",
+    price: 300,
+    image: "sweets/Badusha.jpeg",
+    description: "Flaky, layered sweet soaked in sugar syrup.",
+    rating: 4.3,
+    category: "sweets",
+  },
+  {
+    id: 20,
+    name: "Halwa",
+    price: 550,
+    image: "sweets/Halwa.jpg",
+    description: "Dense, sweet confection made from various ingredients.",
+    rating: 4.5,
+    category: "sweets",
+  },
+];
+
+
+export const products = {
+  snacks,
+  sweets
+};
+
+// Featured products 
+export const featured_products = [
+  {
+    name: "Kuchi Chips",
+    price: 50,
+    image: "feature-prod/Kuchi-Chips.jpg",
+  },
+  {
+    name: "Kuzhalappam",
+    price: 50,
+    image: "feature-prod/Kuzhalappam.jpeg",
+  },
+  {
+    name: "Rava Laddu",
+    price: 40,
+    image: "feature-prod/Rava-Laddu.jpeg",
+  },
+  {
+    name: "Kaju Katli",
+    price: 40,
+    image: "feature-prod/Kaju-Katli.jpeg",
+  },
+];
+
+export const allProducts = [...snacks, ...sweets];
